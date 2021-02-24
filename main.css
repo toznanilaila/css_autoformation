@@ -1,0 +1,18 @@
+h1 {
+    color: #36C;
+    font-weight: normal;
+    letter-spacing: .4em;
+    margin-bottom: 1em;
+    text-transform: lowercase;
+ }
+ p {
+    color: red;
+    text-align: center;
+ }
+ body {
+   background-color: linen;
+}
+h1 {
+   color: maroon;
+   margin-left: 40px;
+}
